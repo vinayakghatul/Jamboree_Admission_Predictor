@@ -24,3 +24,12 @@ Chance of Admit (ranging from 0 to 1)<br>
 
 Exploratory Data Analysis<br>
 Linear Regression<br>
+
+
+### Solution Steps
+
+* EDA and basic analysis
+* Different plot for correlation and variable analysis
+* Train and Test split
+* Linear Regression model
+* Lasso & Ridge Regression model
