@@ -24,6 +24,8 @@ Chance of Admit (ranging from 0 to 1)<br>
 
 Exploratory Data Analysis<br>
 Linear Regression<br>
+Ridge Regression<br>
+Lasso Regression<br>
 
 
 ### Solution Steps
